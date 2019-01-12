@@ -1,6 +1,6 @@
 # Python-Hackerrank-Solutions
 
-#### Description of the Contents:
+#### Code files:
 
   + [Say Hello, World! With Python](HelloWorld.py)
   + [Python If-Else](Python_IfElse.py)

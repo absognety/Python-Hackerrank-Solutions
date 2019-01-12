@@ -24,7 +24,7 @@
   + [Text Alignment](Text_Alignment.py)
   + [Text Wrap](Text_Wrap.py)
   + [Alphabet Rangoli](Alphabet_Rangoli.py)
-  + [[Arrays](Arrays.py)
+  + [Arrays](Arrays.py)
   + [Shape and Reshape](Shape_and_Reshape.py)
   + [Transpose and Flatten](Transpose_and_Flatten.py)
   + [Concatenate](Concatenate.py)

@@ -1,6 +1,6 @@
 # Python-Hackerrank-Solutions
 
-#### Description of the Contents:
+#### Code files:
 
   + [Say Hello, World! With Python](HelloWorld.py)
   + [Python If-Else](Python_IfElse.py)
@@ -39,3 +39,7 @@
   + [Inner and Outer](Inner_and_Outer.py)
   + [Polynomials](Polynomials.py)
   + [Linear Algebra](Linear_Algebra.py)
+  + [String Formatting](Python_String_Formatting.py)
+  + [Capitalize!](String_Capitalize.py)
+  
+  

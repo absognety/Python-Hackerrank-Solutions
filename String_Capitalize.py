@@ -1,4 +1,4 @@
-
+import os
 # Complete the solve function below.
 def solve(s):
     splitted_s = s.split(" ")

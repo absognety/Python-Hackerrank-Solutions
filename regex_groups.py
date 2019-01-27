@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 27 18:33:51 2019
+# Enter your code here. Read input from STDIN. Print output to STDOUT
 
-@author: cvikas10
-"""
-
+import re
+m = re.search(r'([a-zA-Z0-9])\1+', input().strip())
+print(m.group(1) if m else -1)

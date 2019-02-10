@@ -52,7 +52,7 @@
   + [Find Angle MBC](Find_Angle_MBC.py)
   + [Collections.OrderedDict()](py_collections_OrderedDict.py)
   + [itertools.combinations()](itertools_combinations.py)
-  + [itertools.combinations_with_replacement()](itertools.combinationsWithReplacement.py)
+  + [itertools.combinations_with_replacement()](itertools_combinationsWithReplacement.py)
   + [Work Order](Work_Order.py)
   + [Collections.deque()](collections_deque.py)
   + [Compress the string!](itertools_groupby.py)

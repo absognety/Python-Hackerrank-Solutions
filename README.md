@@ -53,7 +53,7 @@
   + [Collections.OrderedDict()](py_collections_OrderedDict.py)
   + [itertools.combinations()](itertools_combinations.py)
   + [itertools.combinations_with_replacement()](itertools_combinationsWithReplacement.py)
-  + [Work Order](Work_Order.py)
+  + [Word Order](Word_Order.py)
   + [Collections.deque()](collections_deque.py)
   + [Compress the string!](itertools_groupby.py)
   + [CompanyLogo](CompanyLogo.py)

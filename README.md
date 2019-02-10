@@ -75,7 +75,7 @@
   + [ginortS](ginortS.py)
   + [Group(),Groups() and GroupDict()](regex_groups.py)
   + [re.findall() & re.finditer()](regex_iter_finditer.py)
-  + [[Hex Color Code](Hex_Color_Code.py)
+  + [Hex Color Code](Hex_Color_Code.py)
   + [HTML Parser - Part 1](HTMLParser_Part1.py)
   + [HTML Parser - Part 2](HTMLParser_Part2.py)
   + [Detect HTML Tags, Attributes and Attribute Values](detect_html_tags_attributes.py)

@@ -59,7 +59,7 @@
   + [CompanyLogo](CompanyLogo.py)
   + [Piling Up!](PilingUp_production.py)
   + [Triangle Quest 2](Triangle_Quest2.py)
-  + [iterables and iterators](Iterables_and_Iterators_probability.py)
+  + [iterables and iterators](Iterable_and_Iterators_probability.py)
   + [Mod Divmod](python_mod_divmod.py)
   + [Power - Mod Power](python_power_modpower.py)
   + [Maximize it!](Maximize_It.py)
